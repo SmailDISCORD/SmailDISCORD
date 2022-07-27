@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SmailDISCORD
 - 👀 I’m interested in programming👍
-- 🌱 I’m currently learning... IDK(
-- 💞️ I’m looking to collaborate on ... IDK(
-- 📫 How to reach me ... IDK(
+- 🌱 I am currently in the 7th grade🥎
+- 💞️ I am looking for opportunities to collaborate in BDScript
+- 📫 How to contact me? You can contact me via my discord Smail#0427. I will answer all your questions there!
 
 <!---
 SmailDISCORD/SmailDISCORD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
